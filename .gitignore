@@ -1,0 +1,18 @@
+# Runtime data — never commit Telegram sessions, cached messages, or media.
+data/
+config.json
+*.session
+*.session-*
+*.db
+*.db-*
+
+# Local Python files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local tooling
+.env
+.env.*
+tmp/
