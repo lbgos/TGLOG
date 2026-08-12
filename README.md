@@ -7,7 +7,7 @@ This is mostly a practical tool I wanted to have running in the background: simp
 Use it only with accounts, chats, and data you are allowed to monitor. The cache contains private message content, so treat the `data/` directory like a password manager backup.
 
 ## Example
-
+### works for pictures and videos too!
 ![Deleted, edited, and self-destruct message notifications in the Telegram log channel](docs/images/tglog-events-example.png)
 
 ## What it does
